@@ -52,3 +52,5 @@ if '오렌지' not in f_list :
     f_list.insert(3,'오렌지')
     
     print(f_list)
+    
+    

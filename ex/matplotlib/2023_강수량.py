@@ -3,7 +3,7 @@
 x=[]
 y=[]
 # 파일이 없는경우 오류 발생
-f = open('ex/2023_강수량.csv', 'r', encoding='utf-8')
+f = open('ex/matplotlib/2023_강수량.csv', 'r', encoding='utf-8')
 
 title = f.readline()  
 while True :
